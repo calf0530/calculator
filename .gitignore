@@ -1,0 +1,12 @@
+# directories
+/.idea/
+/target/
+
+# files
+*.class
+calculator.iml
+*.bak
+
+# Eclipse
+.project
+.metadata
