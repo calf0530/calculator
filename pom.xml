@@ -6,7 +6,8 @@
 
     <groupId>com.example</groupId>
     <artifactId>calculator</artifactId>
-    <version>0.9</version>
+    <version>1.0</version>
+    <description>Calculator</description>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
